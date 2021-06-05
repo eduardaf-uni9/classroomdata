@@ -1,0 +1,101 @@
+,nome,sexo,turma,idade,av1,av2,media,status
+1,Lorenzo,Masculino,A,15,7,1,4,reprovado
+2,Helena,Feminino,A,14,8,5,"6,5",aprovado
+3,Miguel,Masculino,A,16,8,9,"8,5",aprovado
+4,Luiza,Feminino,A,15,5,3,4,reprovado
+5,Matheus,Masculino,A,14,4,7,"5,5",recuperação
+6,Laura,Feminino,A,16,9,8,"8,5",aprovado
+7,Arthur,Masculino,A,15,3,5,4,reprovado
+8,Valentina,Feminino,A,14,7,4,"5,5",recuperação
+9,Théo,Masculino,A,16,2,3,"2,5",reprovado
+10,Heloísa,Feminino,A,15,6,7,"6,5",aprovado
+11,Pedro,Masculino,A,14,10,8,9,aprovado
+12,Júlia,Feminino,A,16,2,5,"3,5",reprovado
+13,Gabriel,Masculino,A,15,6,4,5,recuperação
+14,Lorena,Feminino,A,14,10,8,9,aprovado
+15,Heitor,Masculino,A,16,9,5,7,aprovado
+16,Alice,Feminino,A,15,3,4,"3,5",reprovado
+17,Bernardo,Masculino,A,14,7,7,7,aprovado
+18,Manuela,Feminino,A,16,8,8,8,aprovado
+19,Davi,Masculino,A,15,5,5,5,recuperação
+20,Isabella,Feminino,A,14,4,4,4,reprovado
+21,Benjamin,Masculino,A,16,8,3,"5,5",recuperação
+22,Eloá,Feminino,A,15,5,7,6,aprovado
+23,Lucas,Masculino,A,14,4,8,6,aprovado
+24,Lívia,Feminino,A,16,9,5,7,aprovado
+25,Joaquim,Masculino,A,15,3,4,"3,5",reprovado
+26,Giovanna,Feminino,B,14,7,3,5,recuperação
+27,Henrique,Masculino,B,16,8,7,"7,5",aprovado
+28,Maria Clara,Feminino,B,15,5,8,"6,5",aprovado
+29,Enzo,Masculino,B,14,4,5,"4,5",reprovado
+30,Maria Luiza,Feminino,B,16,8,4,6,aprovado
+31,Nicolas,Masculino,B,15,5,6,"5,5",recuperação
+32,Cecília,Feminino,B,14,4,10,7,aprovado
+33,Guilherme,Masculino,B,16,9,9,9,aprovado
+34,Maria Eduarda,Feminino,B,15,3,3,3,reprovado
+35,Rafael,Masculino,B,14,7,7,7,aprovado
+36,Sophia,Feminino,B,16,2,8,5,recuperação
+37,Pedro Henrique,Masculino,B,15,6,5,"5,5",recuperação
+38,Melissa,Feminino,B,14,10,4,7,aprovado
+39,Enzo Gabriel,Masculino,B,16,2,8,5,recuperação
+40,Ana Clara,Feminino,B,15,6,5,"5,5",recuperação
+41,Felipe,Masculino,B,14,10,4,7,aprovado
+42,Lara,Feminino,B,16,9,4,"6,5",aprovado
+43,João Pedro,Masculino,B,15,3,8,"5,5",recuperação
+44,Antonella,Feminino,B,14,7,5,6,aprovado
+45,Isaac,Masculino,B,16,8,4,6,aprovado
+46,Emanuelly,Feminino,B,15,5,7,6,aprovado
+47,Anthony,Masculino,B,14,4,8,6,aprovado
+48,Ana Júlia,Feminino,B,16,8,5,"6,5",aprovado
+49,Murilo,Masculino,B,15,5,4,"4,5",reprovado
+50,Ana Luiza,Feminino,B,14,4,3,"3,5",reprovado
+51,Gustavo,Masculino,C,16,9,7,8,aprovado
+52,Esther,Feminino,C,15,3,8,"5,5",recuperação
+53,João Miguel,Masculino,C,14,7,5,6,aprovado
+54,Maria Júlia,Feminino,C,16,8,4,6,aprovado
+55,Daniel,Masculino,C,15,5,3,4,reprovado
+56,Beatriz,Feminino,C,14,4,7,"5,5",recuperação
+57,Benício,Masculino,C,16,8,8,8,aprovado
+58,Isadora,Feminino,C,15,5,5,5,recuperação
+59,Bryan,Masculino,C,14,4,4,4,reprovado
+60,Mariana,Feminino,C,16,9,6,"7,5",aprovado
+61,Leonardo,Masculino,C,15,3,10,"6,5",aprovado
+62,Maria Cecília,Feminino,C,14,7,9,8,aprovado
+63,Eduardo,Masculino,C,16,2,3,"2,5",reprovado
+64,Sarah,Feminino,C,15,6,7,"6,5",aprovado
+65,Antônio,Masculino,C,14,10,4,7,aprovado
+66,Elisa,Feminino,C,16,2,8,5,recuperação
+67,Caio,Masculino,C,15,6,5,"5,5",recuperação
+68,Isabelly,Feminino,C,14,10,4,7,aprovado
+69,João,Masculino,C,16,9,7,8,aprovado
+70,Lavínia,Feminino,C,15,3,8,"5,5",recuperação
+71,Davi Lucca,Masculino,C,14,7,5,6,aprovado
+72,Maitê,Feminino,C,16,8,4,6,aprovado
+73,Vicente,Masculino,C,15,5,3,4,reprovado
+74,Maria Alice,Feminino,C,14,4,7,"5,5",recuperação
+75,Gael,Masculino,C,16,8,8,8,aprovado
+76,Liz,Feminino,D,15,5,5,5,recuperação
+77,Vitor,Masculino,D,14,4,4,4,reprovado
+78,Yasmin,Feminino,D,16,9,3,6,aprovado
+79,Noah,Masculino,D,15,3,7,5,recuperação
+80,Maria Helena,Feminino,D,14,7,8,"7,5",aprovado
+81,Enrico,Masculino,D,16,8,5,"6,5",aprovado
+82,Clara,Feminino,D,15,5,4,"4,5",reprovado
+83,Cauã,Masculino,D,14,4,6,5,recuperação
+84,Rebeca,Feminino,D,16,8,10,9,aprovado
+85,João Lucas,Masculino,D,15,5,9,7,aprovado
+86,Marina,Feminino,D,14,4,3,"3,5",reprovado
+87,Emanuel,Masculino,D,16,9,7,8,aprovado
+88,Alícia,Feminino,D,15,3,4,"3,5",reprovado
+89,Bento,Masculino,D,14,7,8,"7,5",aprovado
+90,Isis,Feminino,D,16,2,5,"3,5",reprovado
+91,Vinícius,Masculino,D,15,6,4,5,recuperação
+92,Ana Laura,Feminino,D,14,10,7,"8,5",aprovado
+93,Pietro,Masculino,D,16,2,8,5,recuperação
+94,Catarina,Feminino,D,15,6,5,"5,5",recuperação
+95,Samuel,Masculino,D,14,10,4,7,aprovado
+96,Agatha,Feminino,D,16,9,3,6,aprovado
+97,Lucca,Masculino,D,15,3,7,5,recuperação
+98,Gabriela,Feminino,D,14,7,8,"7,5",aprovado
+99,Calebe,Masculino,D,16,8,5,"6,5",aprovado
+100,Rafaela,Feminino,D,15,5,4,"4,5",reprovado

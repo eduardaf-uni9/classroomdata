@@ -7,7 +7,9 @@ Professor [Dr. José Eduardo Storopoli](storopoli.io).
 ## Integrantes
 
 Eduarda Ferreira Lima – RA 417103298
+
 Felipe Mares de Lima – RA 417106458
+
 Hugo Cardoso Viana – RA 419116783
 
 ## Proposta de Avaliação da Disciplina
